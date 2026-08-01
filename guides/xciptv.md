@@ -24,3 +24,10 @@ Enter your XCIPTV credentials (Server URL, Username, and Password) provided by y
 Visit our website for additional setup tutorials and support:
 
 https://tivastream.com/
+
+## Related Guides
+
+- [IPTV Smarters Setup](iptv-smarters.md)
+- [Buffering Fix](buffering-fix.md)
+- [TiviMate Setup](tivimate.md)
+- [Vlc Player Setup](vlc-player.md)
