@@ -31,3 +31,10 @@ Enter your account details and complete the setup.
 Visit our website for additional setup tutorials and support:
 
 https://tivastream.com/
+
+## Related Guides
+
+- [TiviMate Setup](tivimate.md)
+- [Buffering Fix](buffering-fix.md)
+- [VLC Player Setup](vlc-player.md)
+- [XCIPTV Setup](xciptv.md)
