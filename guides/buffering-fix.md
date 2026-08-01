@@ -23,4 +23,4 @@ Lower the stream output resolution if your connection speed drops during peak ho
 ## More Guides
 Visit our website for additional setup tutorials and support:
 
-https://tivastream.com/
+[https://tivastream.com/](https://tivastream.com/why-your-iptv-buffers-and-how-a-quality-iptv-provider-fixes-it/)
