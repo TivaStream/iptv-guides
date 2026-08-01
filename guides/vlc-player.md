@@ -24,3 +24,10 @@ Paste your M3U playlist URL provided by your service into the network URL field,
 Visit our website for additional setup tutorials and support:
 
 https://tivastream.com/
+
+## Related Guides
+
+- [IPTV Smarters Setup](iptv-smarters.md)
+- [Buffering Fix](buffering-fix.md)
+- [TiviMate Setup](tivimate.md)
+- [XCIPTV Setup](xciptv.md)
