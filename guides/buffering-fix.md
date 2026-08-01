@@ -24,3 +24,10 @@ Lower the stream output resolution if your connection speed drops during peak ho
 Visit our website for additional setup tutorials and support:
 
 https://tivastream.com/why-your-iptv-buffers-and-how-a-quality-iptv-provider-fixes-it
+
+## Related Guides
+
+- [TiviMate Setup](tivimate.md)
+- [IPTV Smarters Setup](buffering-fix.md)
+- [VLC Player Setup](vlc-player.md)
+- [XCIPTV Setup](xciptv.md)
