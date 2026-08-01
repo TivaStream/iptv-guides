@@ -24,3 +24,10 @@ Enter your server URL, username, and password, then click Next to complete the s
 Visit our website for additional setup tutorials and support:
 
 https://tivastream.com/
+
+## Related Guides
+
+- [IPTV Smarters Setup](iptv-smarters.md)
+- [Buffering Fix](buffering-fix.md)
+- [VLC Player Setup](vlc-player.md)
+- [XCIPTV Setup](xciptv.md)
