@@ -1,11 +1,19 @@
-# TivaStream
+# TivaStream IPTV Guides
 
-Welcome to the official TivaStream GitHub repository.
+Welcome to the official TivaStream documentation repository.
 
-This repository contains setup guides, troubleshooting tips, and documentation to help users configure compatible streaming applications and improve their streaming experience.
+## Available Guides
 
-## Resources
+- IPTV Smarters Setup
+- TiviMate Setup
+- XCIPTV Setup
+- VLC Player Guide
+- Buffering Troubleshooting
 
-- Website: https://tivastream.com
-- Setup Guides: https://tivastream.com/category/guides/
-- FAQ: https://tivastream.com/faq/
+### Website
+
+https://tivastream.com/
+
+### FAQ
+
+https://tivastream.com/faq/
