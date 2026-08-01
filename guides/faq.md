@@ -26,3 +26,11 @@ A VPN is recommended if your Internet Service Provider (ISP) throttles high-band
 Visit our website for additional setup tutorials and support:
 
 https://tivastream.com/faq
+
+## Related Guides
+
+- [IPTV Smarters Setup](iptv-smarters.md)
+- [Buffering Fix](buffering-fix.md)
+- [TiviMate Setup](tivimate.md)
+- [Vlc Player Setup](vlc-player.md)
+- [XCIPTV Setup](xciptv.md)
